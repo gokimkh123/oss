@@ -19,3 +19,11 @@ hello world
 
 
 https://gokimkq123.github.io/CV.github.io/
+
+
+$[x] + $[y] 
+
++ 1
++ 2
++ 3
++ 
