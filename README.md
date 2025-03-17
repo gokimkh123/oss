@@ -30,3 +30,4 @@ $[x] + $[y]
 
 test
 readme
+colab 깃허브 연동
